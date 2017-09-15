@@ -1,0 +1,42 @@
+{
+    "data": 
+    [
+        {
+            "label": "Documents",
+            "data": "Documents Folder",
+            "children": [{
+                    "label": "Work",
+                    "data": "Work Folder",
+                    "children": [{"label": "Expenses.doc","data": "Expenses Document"}, 
+					{"label": "Resume.doc", "data": "Resume Document"}]
+                },
+                {
+                    "label": "Home",
+                    "data": "Home Folder",
+                    "children": [{"label": "Invoices.txt","data": "Invoices for this month"}]
+                }]
+        },
+        {
+            "label": "Pictures",
+            "data": "Pictures Folder",
+            "children": [
+                {"label": "barcelona.jpg", "data": "Barcelona Photo"},
+                {"label": "logo.jpg",  "data": "PrimeFaces Logo"},
+                {"label": "primeui.png",  "data": "PrimeUI Logo"}]
+        },
+        {
+            "label": "Movies",
+            "data": "Movies Folder",
+            "children": [{
+                    "label": "Al Pacino",
+                    "data": "Pacino Movies",
+                    "children": [{"label": "Scarface", "data": "Scarface Movie"}, {"label": "Serpico" , "data": "Serpico Movie"}]
+                },
+                {
+                    "label": "Robert De Niro",
+                    "data": "De Niro Movies",
+                    "children": [{"label": "Goodfellas", "data": "Goodfellas Movie"}, {"label": "Untouchables", "data": "Untouchables Movie"}]
+                }]
+        }
+    ]
+}
